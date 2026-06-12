@@ -9,7 +9,7 @@
 -  **Content Verification** – Detects fake or misleading content using AI.
 -  **Real-Time Monitoring** – Continuously monitors digital platforms or datasets.
 -  **Smart Review System** – Highlights suspicious content for manual or automated review.
-- 📊 **Authenticity Scoring** – Scores content based on credibility and trust.
+- **Authenticity Scoring** – Scores content based on credibility and trust.
 - 🔌 **Easy Integration** – Can be used as a module or integrated via API.
 
 ---
