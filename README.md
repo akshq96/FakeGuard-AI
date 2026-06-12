@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Features
+## Features
 
 - ✅ **Content Verification** – Detects fake or misleading content using AI.
 - 📡 **Real-Time Monitoring** – Continuously monitors digital platforms or datasets.
